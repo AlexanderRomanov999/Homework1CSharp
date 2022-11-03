@@ -8,8 +8,8 @@ if ((numA >= numB) && (numA >= numC)) {
     Console.WriteLine(numA);
 }
 if ((numB >= numA) && (numB >= numC)) {
-    Console.WriteLine(numA);
+    Console.WriteLine(numB);
 }
 if ((numC >= numA) && (numC >= numB)) {
-    Console.WriteLine(numA);
+    Console.WriteLine(numC);
 }
