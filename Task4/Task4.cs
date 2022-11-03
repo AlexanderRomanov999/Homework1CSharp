@@ -3,7 +3,7 @@ int numA = int.Parse(Console.ReadLine());
 Console.WriteLine("Введите второе число");
 int numB = int.Parse(Console.ReadLine());
 Console.WriteLine("Введите третье число");
-int numB = int.Parse(Console.ReadLine());
+int numC = int.Parse(Console.ReadLine());
 if ((numA >= numB) && (numA >= numC)) {
     Console.WriteLine(numA);
 }
